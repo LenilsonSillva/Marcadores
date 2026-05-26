@@ -1,6 +1,32 @@
 <h1 align="center">Marcadores (Trabalho 2)</h1>
 
-Projeto das aulas de Desenvolvimento para Dispositivos Móveis que consistente em criar um aplicativo com marcadores em um mapa usando React Native.
+React Native mobile application developed for academic purposes.
+
+## Overview
+
+Application capable of rendering map markers and interacting with backend APIs.
+
+Users can:
+
+- Create markers
+- Fetch data from server
+- Delete markers
+- Manage geolocation points
+
+## Tech Stack
+
+- React Native
+- JavaScript
+- REST API
+- CRUD Operations
+- Insomnia testing
+
+## Learning Focus
+
+- Mobile development
+- API communication
+- GET / POST / DELETE requests
+- Database integration
 
 ### 📷 Imagens do projeto
 
